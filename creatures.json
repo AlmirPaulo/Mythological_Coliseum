@@ -19,7 +19,7 @@
     "name":"Vampire",
     "id": 3,
     "type":"Aether",
-    "picture": {"file": "...", "credits":"*A Crowned Merman*, by Arthur Rackham"},
+    "picture": {"file": "...", "credits":""},
     "description":"test2",
     "premium":true
 },
@@ -27,7 +27,7 @@
     "name":"Dragon",
     "id": 4,
     "type":"Fire",
-    "picture": {"file": "...", "credits":"*A Crowned Merman*, by Arthur Rackham"},
+    "picture": {"file": "...", "credits":""},
     "description":"test2",
     "premium":true
 },
@@ -35,7 +35,7 @@
     "name":"Unicorn",
     "id": 5,
     "type":"Aether",
-    "picture": {"file": "...", "credits":"*A Crowned Merman*, by Arthur Rackham"},
+    "picture": {"file": "...", "credits":""},
     "description":"test2",
     "premium":true
 },
@@ -43,7 +43,7 @@
     "name":"Pegasus",
     "id": 6,
     "type":"Air",
-    "picture": {"file": "...", "credits":"*A Crowned Merman*, by Arthur Rackham"},
+    "picture": {"file": "...", "credits":""},
     "description":"test2",
     "premium":true
 },{
@@ -65,13 +65,6 @@
     "name":"Phoenix",
     "id": 9,
     "type":"Fire",
-    "picture": {"file": "...", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
-    "description":"test2",
-    "premium":true
-},{
-    "name":"Basilisk",
-    "id": 10,
-    "type":"Earth",
     "picture": {"file": "...", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
     "description":"test2",
     "premium":true

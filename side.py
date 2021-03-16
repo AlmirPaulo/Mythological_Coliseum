@@ -2,7 +2,8 @@
 # from threading import Thread
 import requests
 
-
+def get_data():
+    pass
 
 
 
