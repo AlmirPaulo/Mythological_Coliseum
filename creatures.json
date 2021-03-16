@@ -2,7 +2,7 @@
     "name":"Mermaid",
     "id": 1,
     "type":"Water",
-    "picture": {"file": "creatures/mermaid.jpg", "credits":"*A Mermaid* by John William Waterhouse"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/mermaid.jpg", "credits":"*A Mermaid* by John William Waterhouse"},
     "description":"test",
     "premium": false
 },
@@ -11,7 +11,7 @@
     "name":"Merman",
     "id": 2,
     "type":"Water",
-    "picture": {"file": ".creatures/merman.jpg", "credits":"*A Crowned Merman*, by Arthur Rackham"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/merman.jpg", "credits":"*A Crowned Merman*, by Arthur Rackham"},
     "description":"test2",
     "premium":true
 },
@@ -19,7 +19,7 @@
     "name":"Witch",
     "id": 3,
     "type":"Aether",
-    "picture": {"file": "creatures/Witch.JPG", "credits":"*The Magic Circle* by John William Waterhouse"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/Witch.JPG", "credits":"*The Magic Circle* by John William Waterhouse"},
     "description":"test2",
     "premium":true
 },
@@ -50,14 +50,14 @@
     "name":"Fairy",
     "id": 7,
     "type":"Aether",
-    "picture": {"file": "creatures/Fairy.jpg", "credits":"Ilustration by Luis Ricardo Falero"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/Fairy.jpg", "credits":"Ilustration by Luis Ricardo Falero"},
     "description":"test2",
     "premium":true
 },{
     "name":"Dryad",
     "id": 8,
     "type":"Earth",
-    "picture": {"file": "creatures/Dryad.jpg", "credits":"The Dryad by Evelyn De Morgan"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/Dryad.jpg", "credits":"The Dryad by Evelyn De Morgan"},
     "description":"test2",
     "premium":true
 },
@@ -65,14 +65,14 @@
     "name":"Phoenix",
     "id": 9,
     "type":"Fire",
-    "picture": {"file": "creatures/Phoenix.jpg", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/Phoenix.jpg", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
     "description":"test2",
     "premium":true
 },{
     "name":"Basilisk",
     "id": 10,
     "type":"Earth",
-    "picture": {"file": "creatures/Basilisk.png", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
+    "picture": {"file": "https://raw.githubusercontent.com/AlmirPaulo/Mythological_Coliseum/main/creatures/Basilisk.png", "credits":"Ilustration by Friedrich Johann Justin Bertuch"},
     "description":"test2",
     "premium":true
 }]
