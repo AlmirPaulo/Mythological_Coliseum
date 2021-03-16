@@ -1,3 +1,4 @@
 note_*
-*pycache*
+__pycache__
 .env
+database

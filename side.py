@@ -2,8 +2,16 @@
 # from threading import Thread
 import requests
 
+database = open('database', 'r').read()
+
+
+
+
 def get_data():
-    pass
+    url = database
+    resp = requests.get(url)
+    return resp.json()
+        
 
 
 
